@@ -1,7 +1,33 @@
 To-do List :
----------------------------------------------------------
--Ajouter Template dans FlightPHP
----------------------------------------------------------
+
+--Ajouter Template dans FlightPHP--
+-copier le dossier FlightPHP
+
+-integrer l affichage
+    dist modern -> view 
+    messages.html -> .php
+
+-integrer le scss (jsp comment)
+    utiliser route 
+
+
+--BDD-- (mysql)
+
+TABLE
+    utilisateurs
+    messages (idmess, idsend, idreceive, message, date)
+        msg recus et envoyer
+
+--Fonction--
+
+getUtilisateur
+getMsg
+insertMsg
+getMsgByUti
+
+
+
+
 
 ---------------------------------------------------------
 -Faire marcher ces 3 fonctionnalités :
