@@ -1,1 +1,17 @@
-hello thonny what is your name thionny
+To-do List :
+---------------------------------------------------------
+-Ajouter Template dans FlightPHP
+---------------------------------------------------------
+
+---------------------------------------------------------
+-Faire marcher le SCSS
+---------------------------------------------------------
+
+---------------------------------------------------------
+-Faire marcher ces 3 fonctionnalités :
+    *envoi message entre utilisateurs
+    *systeme de message lu et non lu
+    *bouton rafraichir pour avoir les nouveaux messages
+---------------------------------------------------------
+
+
